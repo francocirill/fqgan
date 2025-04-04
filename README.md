@@ -19,5 +19,8 @@ The project demonstrates:
 
 If you plan to use this code for your work, please cite the associated paper once it is published. Kindly check back on this GitHub page for updates regarding the publication status and citation information.
 
+## Acknowledgment
+This research is funded by the NGIsargasso project (Europe Horizon Grant No. 101092887), Open Call 4  FRQGAN4AD project. 
+
 ## Contact
 Anonymous
